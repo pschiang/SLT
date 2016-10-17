@@ -1,13 +1,7 @@
-# astronomy
+# YSO variability
 
-## Substellar objects in star-forming regions
+## Introduction
 
-### Taurus W-band survey
+## Observation
 
-### Rho Oph
-
-## Variability of young stellar objects
-
-### Lulin monitor program
-
-### JCMT transient program
+## Current Status
